@@ -36,7 +36,7 @@ User
 → DynamoDB (Metadata)
 → SES (Email Notification)
 
-(Architecture diagram added below)
+(Architecture diagram added in Documentation.pdf)
 
 ---
 
